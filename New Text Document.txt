@@ -1,0 +1,15 @@
+npm i -g @angular/cli -> Installs the Angular CLI (Command Line Interface)
+ng new "project name" -> Creates a new Angular Project
+ng serve -> Starts the dev server
+ng add @fortawesome/angular-fontawesome -> Installs the Angular FontAwesome Icons
+ng generate service services/task
+npm i json-server
+npm run server
+
+Commands included on default Angular page:
+    - ng generate component xyz -> Creates a new component
+    - ng add @angular/material -> Adds a Angular material
+    - ng add @angular/pwa -> Adds PWA (Progressive Web Application) support
+    - ng add ____ -> Adds a dependency
+    - ng test -> Runs and watches tests
+    - ng build -> Builds the app for Production

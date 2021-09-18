@@ -1,0 +1,12 @@
+Desenvolver cada conceito utilizado para uma melhor perceção do que foi feito
+
+Components -> 4 files (CSS, HTML, Tests & Logic(?))
+OnInit
+Input / Output
+EventEmitter
+Observable
+
+
+Angular API Common -> Operations like ngFor, ngIf...
+Angular FontAwesome
+Usage of CLI
